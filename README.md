@@ -1,6 +1,6 @@
 # MichaelHogers
 
-<samp>Full-Stack Software Developer from The Netherlands, working on nplmarkets.com. Working on nplmarkets.com - a second startup i've been involved in, enjoy building anything that creates value.</samp>
+<samp>Full-Stack Software Developer from The Netherlands, working on nplmarkets.com since inception in 2019. Enjoy building anything that helps people become more productive.</samp>
 
 ### <samp>Recent Thoughts 💭</samp>
 
