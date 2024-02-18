@@ -8,5 +8,5 @@
 
 ### About Me
 - 🔭 I’m currently working on scaling nplmarkets.com
-- 👯 I’m looking to collaborate on R libraries
+- 👯 I’m looking to collaborate on R and Python libraries
 - 💬 Ask me about R/Shiny/Bootstrap
