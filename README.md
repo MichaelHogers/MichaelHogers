@@ -6,7 +6,7 @@
 
 * <samp>[Modular Shiny(Proxy) - A SaaS setup (WIP)]</samp>
 
-# About Me
+## About Me
 - 🔭 I’m currently working on scaling nplmarkets.com
 - 👯 I’m looking to collaborate on R libraries
 - 💬 Ask me about R/Shiny/Bootstrap
