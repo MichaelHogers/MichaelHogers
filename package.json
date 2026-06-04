@@ -1,0 +1,19 @@
+{
+  "name": "hackernews-monitoring",
+  "version": "1.0.0",
+  "description": "Checkly monitoring for HackerNews",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx checkly test",
+    "deploy": "npx checkly deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@playwright/test": "^1.60.0",
+    "checkly": "^7.15.0",
+    "typescript": "^5.9.3"
+  }
+}
