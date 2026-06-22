@@ -1,5 +1,6 @@
 import { defineConfig } from 'checkly'
 
+// Monitoring-as-code config for HackerNews availability checks.
 export default defineConfig({
   projectName: 'HackerNews Monitoring',
   logicalId: 'hackernews-monitoring',
